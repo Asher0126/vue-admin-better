@@ -5,6 +5,7 @@
 </template>
 
 <script>
+// test code
   export default {
     name: 'App',
     mounted() {},
